@@ -7,8 +7,7 @@
 1. Find ForceNCode Bar on the Top Navigation Bar (File, Edit, Assets… etc.)
 2. You should see a section as “Click & Touch”, if not please be sure your project has no error so that it can compile at least once after importing this asset.
 3. Press Easy Setup in the “Click & Touch” Section
-
-**4-** Setup is completed.
+4. Setup is completed.
 
 **Important:** ForceClickEditor.dll should be excluded for all platforms instead of editor.
 
