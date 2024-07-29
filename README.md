@@ -2,8 +2,6 @@
 
 **Initialization:**
 
-Force Click Online Documentation Page: <https://forcencode.com/ForceClickDocumentation>
-
 ![](Aspose.Words.8084c4fa-fced-433e-a598-b196d462a1d1.001.png)
 
 1. Find ForceNCode Bar on the Top Navigation Bar (File, Edit, Assets… etc.)
