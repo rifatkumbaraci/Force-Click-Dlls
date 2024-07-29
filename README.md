@@ -2,7 +2,7 @@
 
 **Initialization:**
 
-![](Aspose.Words.8084c4fa-fced-433e-a598-b196d462a1d1.001.png)
+![](https://github.com/rifatkumbaraci/Force-Click-Dlls/blob/main/ForceClickImage1.png)
 
 1. Find ForceNCode Bar on the Top Navigation Bar (File, Edit, Assets… etc.)
 1. You should see a section as “Click & Touch”, if not please be sure your project has no error so that it can compile at least once after importing this asset.
