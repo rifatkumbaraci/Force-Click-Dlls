@@ -15,7 +15,9 @@
 3. Adds 2 Click Controllers to the GameObject that has camera component. One is for Mobile Devices and touch checks, other is for desktop, PC, Standalone, Editor checks
 
 **4-** Setup is completed.
+
 **Important:** ForceClickEditor.dll should be excluded for all platforms instead of editor.
+
 **Overview & Simple Usage:**
 
 In Runtime you will notice that one of the controller(according to device is Mobile or Desktop) is destroyed which is the intended action. 
