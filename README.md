@@ -8,15 +8,15 @@
 2. You should see a section as “Click & Touch”, if not please be sure your project has no error so that it can compile at least once after importing this asset.
 3. Press Easy Setup in the “Click & Touch” Section
 
-   What does Easy Setup do?
+**4-** Setup is completed.
+
+**Important:** ForceClickEditor.dll should be excluded for all platforms instead of editor.
+
+   **What does Easy Setup do?**
 
 1. Checks previous(old) Click Controllers in the hierarchy and removes them.
 2. Finds out any camera in the hiearchy(checks main camera first).
 3. Adds 2 Click Controllers to the GameObject that has camera component. One is for Mobile Devices and touch checks, other is for desktop, PC, Standalone, Editor checks
-
-**4-** Setup is completed.
-
-**Important:** ForceClickEditor.dll should be excluded for all platforms instead of editor.
 
 **Overview & Simple Usage:**
 
