@@ -5,17 +5,17 @@
 ![](https://github.com/rifatkumbaraci/Force-Click-Dlls/blob/main/ForceClickImage1.png)
 
 1. Find ForceNCode Bar on the Top Navigation Bar (File, Edit, Assets… etc.)
-1. You should see a section as “Click & Touch”, if not please be sure your project has no error so that it can compile at least once after importing this asset.
-1. Press Easy Setup in the “Click & Touch” Section
+2. You should see a section as “Click & Touch”, if not please be sure your project has no error so that it can compile at least once after importing this asset.
+3. Press Easy Setup in the “Click & Touch” Section
 
    What does Easy Setup do?
 
 1. Checks previous(old) Click Controllers in the hierarchy and removes them.
-1. Finds out any camera in the hiearchy(checks main camera first).
-1. Adds 2 Click Controllers to the GameObject that has camera component. One is for Mobile Devices and touch checks, other is for desktop, PC, Standalone, Editor checks
+2. Finds out any camera in the hiearchy(checks main camera first).
+3. Adds 2 Click Controllers to the GameObject that has camera component. One is for Mobile Devices and touch checks, other is for desktop, PC, Standalone, Editor checks
 
 **4-** Setup is completed.
-
+**Important:** ForceClickEditor.dll should be excluded for all platforms instead of editor.
 **Overview & Simple Usage:**
 
 In Runtime you will notice that one of the controller(according to device is Mobile or Desktop) is destroyed which is the intended action. 
